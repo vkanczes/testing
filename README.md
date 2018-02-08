@@ -1,2 +1,2 @@
-# testing
-testing
+# power
+test of power
